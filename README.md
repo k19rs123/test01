@@ -28,7 +28,7 @@ easily.
 
 ## Section 5
 
-This is also easy.
+Table is also easy.
 
 |Team   |Win |Lose |Draw |
 |-------|---:|----:|----:|
